@@ -1,0 +1,7 @@
+28 api.snyk.io
+20 jestjs.io
+12 api.
+12 app.dev.snyk.io
+12 snyk.io
+4 ghe.dev.snyk.io
+1 github.com

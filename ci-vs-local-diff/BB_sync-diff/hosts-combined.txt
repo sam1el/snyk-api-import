@@ -1,0 +1,10 @@
+56 jestjs.io
+32 api.snyk.io
+16 gitlab.example
+16 snyk.docs.apiary.io
+12 api.
+12 app.dev.snyk.io
+12 snyk.io
+4 ghe.dev.snyk.io
+4 ghe.example
+2 github.com
